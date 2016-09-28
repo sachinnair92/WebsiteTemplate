@@ -1,23 +1,14 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <!DOCTYPE html>
-<!--
-Design by TEMPLATED
-http://templated.co
-Released for free under the Creative Commons Attribution License
 
-Name       : Big Business 2.0
-Description: A two-column, fixed-width design with a bright color scheme.
-Version    : 1.0
-Released   : 20120624
--->
 <html>
 <head>
 <meta name="description" content="" />
 <meta name="keywords" content="" />
-<title>Big Business 2.0 by TEMPLATED</title>
+<title>Template 1</title>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" type="text/css" href="css/style.css" />
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery.min.js"></script>
 <script type="text/javascript" src="js/jquery.dropotron-1.0.js"></script>
 <script type="text/javascript" src="js/jquery.slidertron-1.1.js"></script>
 <script type="text/javascript">
@@ -42,9 +33,8 @@ Released   : 20120624
 <div id="wrapper">
 	<div id="header">
 		<div id="logo">
-			<h1><a href="#">Big Business 2.0</a></h1>
+			<img src="images/logo.png"/>
 		</div>
-
 	</div>
 	<div id="menu">
 		<ul>
@@ -128,88 +118,53 @@ Released   : 20120624
 	<div id="page">
 		<div id="content">
 			<div class="box">
-				<h2>Welcome to Big Business 2.0</h2>
+				<h2>Lorem Ipsum</h2>
 				<p>
-					This is <strong>Big Business 2.0</strong>, a free and fully standards-compliant CSS website template by <a href="http://templated.co" rel="nofollow">TEMPLATED</a>. The pictures in this template are from <a href="http://fotogrph.com/">Fotogrph</a>. This free CSS template is released under the <a href="http://templated.co/license">Creative Commons Attribution</a> license, so you're pretty much free to do whatever you want with it (even use it commercially) provided you credit us in some way. Have fun :)
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pellentesque tortor erat, in imperdiet metus molestie a. Curabitur eget lacinia neque, et maximus felis. Aenean dictum ligula sit amet mattis convallis. Ut cursus, enim eu faucibus luctus, velit purus dapibus tellus, non semper est ipsum nec nibh. Mauris pulvinar nisi turpis, quis lobortis leo condimentum sit amet. Ut metus arcu, vulputate ac lorem at, vulputate egestas lacus. Ut fringilla metus a posuere faucibus. Suspendisse aliquet, neque vitae maximus laoreet, ex mauris maximus ex, ac pharetra neque nibh vel purus.
+
+				</p>
+				<p>
+					In hac habitasse platea dictumst. Pellentesque nec odio nec justo tempus mattis sit amet nec neque. Pellentesque fringilla ornare nulla, eu bibendum nulla varius ut. Nullam vestibulum interdum lorem, non pellentesque ligula blandit in. Fusce vel ligula leo. Quisque condimentum elit ac ante tincidunt, at vehicula libero varius. Sed faucibus erat at metus lobortis maximus.
+
+				</p>
+				<p>	Phasellus quam neque, auctor rhoncus quam pulvinar, imperdiet hendrerit ex. Donec eros arcu, consequat non magna ut, placerat venenatis purus. Sed ac nulla lacus. Praesent hendrerit ut quam ornare pharetra. Etiam eu urna posuere purus cursus mattis. Pellentesque eget vestibulum mi, in volutpat massa. Maecenas lorem neque, viverra nec blandit in, suscipit a ipsum. In aliquam quam ac vestibulum venenatis. Etiam fermentum tempus turpis, aliquam volutpat felis venenatis id.
+
+				</p>
+				<p>Mauris sit amet erat ut nisl euismod convallis eu vitae nisl. Praesent vehicula dignissim porta. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum faucibus rutrum mauris nec vestibulum. Ut massa dolor, congue vel feugiat quis, malesuada vitae justo. Aliquam diam neque, semper vestibulum justo eu, maximus convallis lacus. Fusce id vestibulum urna. Cras id mi eu metus aliquam facilisis semper non purus. Vivamus quis felis dignissim, lobortis tellus sit amet, sagittis felis. Proin iaculis ipsum vitae velit tristique tincidunt. Vestibulum ultricies suscipit cursus. Maecenas elementum diam ac dui fermentum, quis cursus quam ullamcorper.
 				</p>
 			</div>
-			<div class="box" id="content-box1">
-				<h3>Mauris justo</h3>
-				<ul class="section-list">
-					<li class="first">
-						<img class="pic alignleft" src="images/pic01.jpg" width="70" height="70" alt="" />
-						<span>Condimentum et porttitor tristique nec aliquet magnis pretium quam nibh.</span>
-					</li>
-					<li>
-						<img class="pic alignleft" src="images/pic02.jpg" width="70" height="70" alt="" />
-						<span>Posuere elementum sapien justo tortor nulla fringilla suspendisse nascetur.</span>
-					</li>
-					<li class="last">
-						<img class="pic alignleft" src="images/pic03.jpg" width="70" height="70" alt="" />
-						<span>Ipsum quis vestibulum feugiat congue nunc laoreet volutpat lorem ipsum sociis.</span>
-					</li>
-				</ul>
-			</div>
-			<div class="box" id="content-box2">
-				<h3>Magnis hendrerit erat</h3>
-				<p>
-					Neque neque ornare penatibus tristique fusce turpis. Purus sagittis euismod at ornare suscipit tempus.
-				</p>
-				<ul class="list">
-					<li class="first"><a href="#">Ipsum phasellus ullamcorper</a></li>
-					<li><a href="#">Mollis mattis tempus amet</a></li>
-					<li><a href="#">Ipsum aliquet dignissim vitae</a></li>
-					<li><a href="#">Orci metus curae sed mollis</a></li>
-					<li class="last"><a href="#">Tristique amet venenatis</a></li>
-				</ul>
-			</div>
+
+
 			<br class="clearfix" />
 		</div>
-		<div id="sidebar">
-			<div class="box">
-				<h3>Cursus magnis</h3>
-				<ul class="list">
-					<li class="first"><a href="#">Adipiscing tincidunt</a></li>
-					<li><a href="#">Euismod elit sollicitudin</a></li>
-					<li><a href="#">Dolor magnis et lacinia</a></li>
-					<li><a href="#">Mauris ornare aenean</a></li>
-					<li class="last"><a href="#">Ante semper fringilla</a></li>
-				</ul>
-			</div>
-			<div class="box">
-				<h3>Morbi at varius</h3>
-				<div class="date-list">
-					<ul class="list date-list">
-						<li class="first"><span class="date">2/08</span> <a href="#">Quam sed tempus</a></li>
-						<li><span class="date">2/05</span> <a href="#">Lorem et vestibulum</a></li>
-						<li><span class="date">2/01</span> <a href="#">Risus aenean tellus</a></li>
-						<li class="last"><span class="date">1/31</span> <a href="#">Tristique et primis</a></li>
-					</ul>
-				</div>
-			</div>
-		</div>
+
 		<br class="clearfix" />
 	</div>
 	<div id="page-bottom">
-		<div id="page-bottom-content">
-			<h3>Magnis hendrerit erat</h3>
-			<p>
-				Euismod sodales sociis hendrerit pulvinar acursus urna. Consectetur egestas sodales at ornare laoreet turpis. Lorem id sapien ridiculus sagittis imperdiet urna suspendisse. Posuere arcu parturient quam risus. Aliquam nullam magnis integer gravida vulputate felis. Consectetur montes sollicitudin dictum. Auctor sociis hendrerit pulvinar acursus urna lorem ipsum dolor vivamus pulvinar libero. Massa egestas cubilia lacus augue mattis consectetur.
+		<div id="page-bottom-sidebar1">
+			<img src="images/pic01.jpg" style="width: 250px;height: 150px"/>
+			<h3>Lorem Ipsum</h3>
+			<p style="margin-right: 15px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pellentesque tortor erat, in imperdiet metus molestie a. Curabitur eget lacinia neque, et maximus felis. Aenean dictum ligula sit amet mattis convallis. Ut cursus, enim eu faucibus luctus, velit purus dapibus tellus, non semper est ipsum nec nibh.</p>
+					</div>
+		<div id="page-bottom-sidebar2">
+			<img src="images/pic02.jpg" style="width: 250px;height: 150px"/>
+			<h3>Lorem Ipsum</h3>
+			<p style="margin-right: 15px">In hac habitasse platea dictumst. Pellentesque nec odio nec justo tempus mattis sit amet nec neque. Pellentesque fringilla ornare nulla, eu bibendum nulla varius ut. Nullam vestibulum interdum lorem, non pellentesque ligula blandit in. Fusce vel ligula leo. Quisque condimentum elit ac ante tincidunt, at vehicula.
 			</p>
+
+
 		</div>
-		<div id="page-bottom-sidebar">
-			<h3>Sed interdum</h3>
-			<ul class="list">
-				<li class="first"><a href="#">Suspendisse ultricies</a></li>
-				<li><a href="#">Tortor mollis enim</a></li>
-				<li class="last"><a href="#">Lorem enim tempor</a></li>
-			</ul>
+		<div id="page-bottom-sidebar3">
+			<img src="images/pic03.jpg" style="width: 250px;height: 150px"/>
+			<h3>Lorem Ipsum</h3>
+			<p style="margin-right: 15px">Mauris sit amet erat ut nisl euismod convallis eu vitae nisl. Praesent vehicula dignissim porta. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum faucibus rutrum mauris nec vestibulum.</p>
+
+
 		</div>
 		<br class="clearfix" />
 	</div>
 </div>
 <div id="footer">
-	&copy; Untitled. All rights reserved. Design by <a href="http://templated.co" rel="nofollow">TEMPLATED</a>. Photos by <a href="http://fotogrph.com/">Fotogrph</a>.
-</div>
+	© 2016 bsnl housing society</div>
 </body>
 </html>

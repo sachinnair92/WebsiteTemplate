@@ -105,7 +105,7 @@ ul h4 {
 }
 
 #content {
-	width: 665px;
+	width: 100%;
 	float: left;
 	padding: 0;
 }
@@ -134,7 +134,7 @@ ul h4 {
 #header {
 	height: 75px;
 	position: relative;
-	background: #6E6E6E url(images/img03.jpg) top left no-repeat;
+	background: #8C8B8B url(images/img03.jpg) top left no-repeat;
 	padding: 45px;
 	color: #FFFFFF;
 	width: 888px;
@@ -149,7 +149,7 @@ ul h4 {
 	height: 160px;
 	padding: 5px 0 0 0;
 	position: absolute;
-	top: 0;
+	top: 20px;
 	left: 45px;
 }
 
@@ -160,7 +160,7 @@ ul h4 {
 }
 
 #logo h1 {
-	font-size: 3.25em;
+	font-size: 1.25em;
 }
 
 #slogan {
@@ -330,6 +330,7 @@ ul h4 {
 	border-bottom-left-radius: 5px;
 	border-bottom-right-radius: 5px;
 	text-shadow: 0 1px 1px #444444;
+	display: table;
 }
 
 #page-bottom a {
@@ -359,10 +360,23 @@ ul h4 {
 	float: left;
 }
 
-#page-bottom-sidebar {
-	width: 200px;
-	margin: 0 0 0 690px;
+#page-bottom-sidebar1 {
+	width: 290px;
+	display: table-cell;
 }
+
+#page-bottom-sidebar2 {
+	width: 290px;
+	display: table-cell;
+}
+
+#page-bottom-sidebar3 {
+	width: 290px;
+	display: table-cell;
+
+}
+
+
 
 #search input.form-submit {
 	margin-left: 1em;
