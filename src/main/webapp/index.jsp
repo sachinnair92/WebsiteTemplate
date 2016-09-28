@@ -8,7 +8,7 @@
 <title>Template 1</title>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" type="text/css" href="css/style.css" />
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery.min.js"></script>
 <script type="text/javascript" src="js/jquery.dropotron-1.0.js"></script>
 <script type="text/javascript" src="js/jquery.slidertron-1.1.js"></script>
 <script type="text/javascript">
