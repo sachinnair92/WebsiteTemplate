@@ -3,7 +3,7 @@
 <html>
 
 <head>
-  <title>ARaynorDesign Template</title>
+  <title>Template 6</title>
   <meta name="description" content="free website template" />
   <meta name="keywords" content="enter your keywords here" />
   <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
@@ -26,10 +26,12 @@
 	      <div id="menubar">
             <ul id="menu">
               <li class="current"><a href="#">Home</a></li>
-              <li><a href="#">Our Work</a></li>
-              <li><a href="#">Testimonials</a></li>
-              <li><a href="#">Projects</a></li>
-              <li><a href="#">Contact Us</a></li>
+              <li><a href="#">Services</a></li>
+              <li><a href="#">Product</a></li>
+              <li><a href="#">Client</a></li>
+              <li><a href="#">Support</a></li>
+                <li><a href="#">About</a></li>
+
             </ul>
           </div><!--close menubar-->
 	    </div><!--close banner-->
