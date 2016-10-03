@@ -51,7 +51,7 @@
     <div id="header-inner" class="container sixteen columns over">
     <hgroup class="one-third column alpha">
     <h1 id="site-title" class="site-title">
-    <a href="index.html" id="logo"><img src="images/logo_1.png" alt="Icebrrrg logo" height="100" width="100" /></a>
+    <a href="index.html" id="logo"><img src="images/logo_1.png" alt="Icebrrrg logo" height="130" width="130" /></a>
     </h1>
     </hgroup>
     <nav id="main-nav" class="two thirds column omega">
